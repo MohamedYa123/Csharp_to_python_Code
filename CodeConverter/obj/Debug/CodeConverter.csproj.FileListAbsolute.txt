@@ -1,0 +1,9 @@
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\bin\Debug\CodeConverter.exe
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\bin\Debug\CodeConverter.pdb
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.csproj.AssemblyReference.cache
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.Form1.resources
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.Properties.Resources.resources
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.csproj.GenerateResource.cache
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.csproj.CoreCompileInputs.cache
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.exe
+C:\Users\medo1\source\repos\CodeConverter\CodeConverter\obj\Debug\CodeConverter.pdb
